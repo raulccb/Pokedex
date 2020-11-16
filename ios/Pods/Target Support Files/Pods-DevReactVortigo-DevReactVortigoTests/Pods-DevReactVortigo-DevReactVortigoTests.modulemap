@@ -1,0 +1,6 @@
+module Pods_DevReactVortigo_DevReactVortigoTests {
+  umbrella header "Pods-DevReactVortigo-DevReactVortigoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
